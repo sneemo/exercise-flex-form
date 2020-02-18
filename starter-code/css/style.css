@@ -1,3 +1,14 @@
 body {
   font-family: sans-serif;
+  
 }
+.flexContainer {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px 400px 400px 400px;
+  /* or can do margin-top: 20px;*/
+}
+/* comment: top right bottom left for margin affected*/
+
